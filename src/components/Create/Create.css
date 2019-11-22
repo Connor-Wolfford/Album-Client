@@ -1,0 +1,24 @@
+Input {
+    background-color: #546A7B;
+    border: #546A7B;
+    margin: .5em;
+    color: #FAE1DF;
+    border-radius: 3px 3px 3px;
+    width: 40vw;
+    height: 3vh;
+}
+
+h2 {
+    color: #FAE1DF;
+}
+
+h5 {
+    color: #FAE1DF;
+}
+
+Button {
+    background-color: #546A7B;
+    color: #FAE1DF;
+    border: #546A7B;
+    border-radius: 2px 2px 2px;
+}

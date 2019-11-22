@@ -1,0 +1,35 @@
+.mainDiv {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cardName{
+    border-radius: .5em;
+    width: 250px;
+    margin-top: 2em;
+    box-shadow: 2px 2px 2px #9EA3b0;
+    background-color: #546A7B;
+    color: #FAE1DF;
+}
+
+.cardName:hover {
+    box-shadow: 4px 4px 4px #546A7B;
+    transform: scale(1.1, 1.1);
+    font-weight: bold;
+}
+
+.delete {
+    background-color: #0D1F2D;
+    border: none;
+    color: #FAE1DF;
+    padding: 1em 2em;
+}
+
+.delete:hover {
+    cursor: pointer;
+}
+
+.container {
+    flex: wrap;
+}

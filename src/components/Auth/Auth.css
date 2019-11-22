@@ -1,0 +1,43 @@
+.input {
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #546A7B;
+    height: 40px;
+    width: 300px;
+    text-indent: 5px;
+    margin-bottom: 1em ;
+    margin-top: 1em ;
+    font-size: 18px;
+    color: #FAE1DF;
+}
+
+.input:focus{
+    outline: none;
+    background-color: #9EA3b0;
+    color: #FAE1DF;
+}
+
+.auth{
+    text-align: center;
+}
+
+#button {
+    margin-top: 1em;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #546A7B;
+    color: #FAE1DF;
+    cursor: pointer;
+}
+
+h1 {
+    color: #FAE1DF;
+}
+
+label {
+    color: #FAE1DF;
+}
+
+/* #button:focus{outline: none;} */
